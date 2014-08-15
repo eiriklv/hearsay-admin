@@ -10,7 +10,7 @@ exports = module.exports = function (services, helpers) {
 
         helpers.react.renderMarkupToString({
             component: App,
-            clientScripts: ['/javascript/app.js'],
+            clientScripts: ['/javascript/home.js'],
             context: context,
             staticPage: false,
             callback: function (err, markup) {
