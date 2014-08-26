@@ -15,7 +15,7 @@ An admin interface for managing sources for Hearsay
  * [envify](http://github.com/hughsk/envify/)
  * [reactify](https://github.com/andreypopp/reactify)
 * [react](http://facebook.github.io/react/)
-* [sass](http://sass-lang.com/)
+* [stylus](http://learnboost.github.io/stylus/)
 * [bootstrap](http://getbootstrap.com/)
 * [fontawesome](http://fortawesome.github.io/Font-Awesome/)
 * [jquery](http://www.jquery.com/)
